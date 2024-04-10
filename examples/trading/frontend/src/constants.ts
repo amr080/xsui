@@ -3,7 +3,7 @@
 
 // You can choose a different env (e.g. using a .env file, or a predefined list)
 import demoContract from "../../api/demo-contract.json";
-import escrowContract from "../../api/escrow-contract.json";
+/// import escrowContract from "../../api/escrow-contract.json";
 
 export enum QueryKey {
   Locked = "locked",
